@@ -45,8 +45,8 @@ export default class App extends Component<Props> {
                 <Text
                   style={[
                     {marginHorizontal: 2},
-                    {textDecorationLine: time / 1000 > value.start_time && value.end_time < time / 1000 ? 'underline' : 'none'},
-                    {fontWeight: time / 1000 > value.start_time && value.end_time < time / 1000 ? 'bold' : '100'}
+                    {textDecorationLine: time / 1000 > value.start_time && value.end_time > time / 1000 ? 'underline' : 'none'},
+                    {fontWeight: time / 1000 > value.start_time && value.end_time > time / 1000 ? 'bold' : '100'}
                   ]}>
                   {value.text}
                 </Text>
@@ -59,8 +59,8 @@ export default class App extends Component<Props> {
                 <Text
                   style={[
                     {marginHorizontal: 2},
-                    {textDecorationLine: time / 1000 > value.start_time && value.end_time < time / 1000 ? 'underline' : 'none'},
-                    {fontWeight: time / 1000 > value.start_time && value.end_time < time / 1000 ? 'bold' : '100'}
+                    {textDecorationLine: time / 1000 > value.start_time && value.end_time > time / 1000 ? 'underline' : 'none'},
+                    {fontWeight: time / 1000 > value.start_time && value.end_time > time / 1000 ? 'bold' : '100'}
                   ]}>
                   {value.text}
                 </Text>
@@ -73,8 +73,8 @@ export default class App extends Component<Props> {
                 <Text
                   style={[
                     {marginHorizontal: 2},
-                    {textDecorationLine: time / 1000 > value.start_time && value.end_time < time / 1000 ? 'underline' : 'none'},
-                    {fontWeight: time / 1000 > value.start_time && value.end_time < time / 1000 ? 'bold' : '100'}
+                    {textDecorationLine: time / 1000 > value.start_time && value.end_time > time / 1000 ? 'underline' : 'none'},
+                    {fontWeight: time / 1000 > value.start_time && value.end_time > time / 1000 ? 'bold' : '100'}
                   ]}>
                   {value.text}
                 </Text>
