@@ -1,0 +1,936 @@
+{
+  "meta": {
+    "url": "https://transcription-asr.s3-ap-southeast-1.amazonaws.com/GCjWdk8GZNmL04DS9hfzYM2dm2EtcOG3yMN63go6.mpga"
+  },
+  "sections": [
+    {
+      "meta": {
+        "speaker": "",
+        "completed": true,
+        "notes": "Note note notes"
+      },
+      "words": [
+        {
+          "start_time": 0,
+          "end_time": 0.7,
+          "text": "الدوسري",
+          "confidence": 0.9,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 0.7,
+          "end_time": 1.8,
+          "text": "المتحدث",
+          "confidence": 0.2,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 1.8,
+          "end_time": 2.1,
+          "text": "باسم",
+          "confidence": 0.1,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 2.1,
+          "end_time": 2.7,
+          "text": "اماره",
+          "confidence": 0.4,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 2.7,
+          "end_time": 3,
+          "text": "مكه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 3,
+          "end_time": 3.9,
+          "text": "المكرمه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 3.9,
+          "end_time": 4.5,
+          "text": "تحيه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 4.5,
+          "end_time": 4.6,
+          "text": "طيبه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 4.6,
+          "end_time": 5.2,
+          "text": "السلطان",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 5.2,
+          "end_time": 12.3,
+          "text": "مكه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 12.3,
+          "end_time": 12.4,
+          "text": "في",
+          "confidence": 0.7,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 12.4,
+          "end_time": 12.8,
+          "text": "عمليه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 12.8,
+          "end_time": 13.1,
+          "text": "القبض",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 13.1,
+          "end_time": 14.1,
+          "text": "ساعات",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 14.1,
+          "end_time": 14.3,
+          "text": "قليله",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 14.3,
+          "end_time": 14.6,
+          "text": "و",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 14.6,
+          "end_time": 14.9,
+          "text": "بعدين",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 14.9,
+          "end_time": 15.2,
+          "text": "اعلنت",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 15.2,
+          "end_time": 15.5,
+          "text": "ومره",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 15.5,
+          "end_time": 15.8,
+          "text": "اخرى",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 15.8,
+          "end_time": 16.4,
+          "text": "انه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 16.4,
+          "end_time": 16.6,
+          "text": "تم",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 16.6,
+          "end_time": 17,
+          "text": "القبض",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 17,
+          "end_time": 17.1,
+          "text": "على",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 17.1,
+          "end_time": 17.3,
+          "text": "الشاب",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 17.3,
+          "end_time": 17.7,
+          "text": "حدثني",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 17.7,
+          "end_time": 17.8,
+          "text": "عن",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 17.8,
+          "end_time": 18.1,
+          "text": "ابرز",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 18.1,
+          "end_time": 18.5,
+          "text": "تفاصيل",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 18.5,
+          "end_time": 19,
+          "text": "الحادث",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 19,
+          "end_time": 20.2,
+          "text": "حبيبي",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 20.2,
+          "end_time": 24.1,
+          "text": "عبد",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 24.1,
+          "end_time": 24.3,
+          "text": "الله",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 24.3,
+          "end_time": 24.5,
+          "text": "كل",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 24.5,
+          "end_time": 24.8,
+          "text": "ما",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        }
+      ]
+    },
+    {
+      "meta": {
+        "speaker": "Speaker B",
+        "completed": false,
+        "notes": ""
+      },
+      "words": [
+        {
+          "start_time": 24.8,
+          "end_time": 25,
+          "text": "يدور",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 25,
+          "end_time": 25.1,
+          "text": "في",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 25.1,
+          "end_time": 25.6,
+          "text": "وسائل",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 25.6,
+          "end_time": 25.8,
+          "text": "التواصل",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 25.8,
+          "end_time": 26.3,
+          "text": "الاجتماع",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 26.3,
+          "end_time": 26.9,
+          "text": "وعلى",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 26.9,
+          "end_time": 27.3,
+          "text": "راسها",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 27.3,
+          "end_time": 27.6,
+          "text": "تويتر",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 27.6,
+          "end_time": 29.4,
+          "text": "قضايا",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 29.4,
+          "end_time": 29.6,
+          "text": "الراي",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 29.6,
+          "end_time": 29.8,
+          "text": "العام",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 29.8,
+          "end_time": 30.2,
+          "text": "و",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 30.2,
+          "end_time": 31.8,
+          "text": "الهاشتاق",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 31.8,
+          "end_time": 32.3,
+          "text": "اللي",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 32.3,
+          "end_time": 32.5,
+          "text": "توصل",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 32.5,
+          "end_time": 33.4,
+          "text": "بالتوالي",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 33.4,
+          "end_time": 35.1,
+          "text": "التمثيل",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 35.1,
+          "end_time": 35.9,
+          "text": "في",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 35.9,
+          "end_time": 36.1,
+          "text": "ما",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 36.1,
+          "end_time": 36.2,
+          "text": "يخص",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 36.2,
+          "end_time": 36.8,
+          "text": "منطقه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 36.8,
+          "end_time": 36.9,
+          "text": "مكه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 36.9,
+          "end_time": 37.2,
+          "text": "المكرمه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 37.2,
+          "end_time": 38.7,
+          "text": "بشكل",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 38.7,
+          "end_time": 38.9,
+          "text": "كبير",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 38.9,
+          "end_time": 39.8,
+          "text": "وهي",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 39.8,
+          "end_time": 40.2,
+          "text": "مصدر",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 40.2,
+          "end_time": 40.4,
+          "text": "مهم",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 40.4,
+          "end_time": 40.8,
+          "text": "جدا",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        }
+      ]
+
+
+    },
+    {
+      "meta": {
+        "speaker": "Speaker C",
+        "completed": false,
+        "notes": ""
+      },
+      "words": [
+        {
+          "start_time": 40.8,
+          "end_time": 40.9,
+          "text": "من",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 40.9,
+          "end_time": 41.4,
+          "text": "مصادر",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 41.4,
+          "end_time": 41.7,
+          "text": "المعلوما",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 41.7,
+          "end_time": 42.2,
+          "text": "اللي",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 42.2,
+          "end_time": 43.2,
+          "text": "يعني",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 43.2,
+          "end_time": 43.3,
+          "text": "انت",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 43.3,
+          "end_time": 43.6,
+          "text": "نائمه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 43.6,
+          "end_time": 43.9,
+          "text": "عليها",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 43.9,
+          "end_time": 45.5,
+          "text": "يتحرك",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 45.5,
+          "end_time": 45.8,
+          "text": "وقت",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 45.8,
+          "end_time": 46.1,
+          "text": "رفع",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 46.1,
+          "end_time": 46.6,
+          "text": "المباشره",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 46.6,
+          "end_time": 47.3,
+          "text": "دائما",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 47.3,
+          "end_time": 47.8,
+          "text": "بشكل",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 47.8,
+          "end_time": 48.4,
+          "text": "اللي",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 48.4,
+          "end_time": 48.7,
+          "text": "على",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 48.7,
+          "end_time": 48.9,
+          "text": "مكه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 48.9,
+          "end_time": 49.8,
+          "text": "المكرمه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 49.8,
+          "end_time": 50.7,
+          "text": "حقيقه",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 50.7,
+          "end_time": 52.1,
+          "text": "الفيديو",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 52.1,
+          "end_time": 52.5,
+          "text": "اللي",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 52.5,
+          "end_time": 52.6,
+          "text": "ظهر",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 52.6,
+          "end_time": 54.3,
+          "text": "مشاهده",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 54.3,
+          "end_time": 54.8,
+          "text": "جميل",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 54.8,
+          "end_time": 56.8,
+          "text": "جدا",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        },
+        {
+          "start_time": 56.8,
+          "end_time": 57.4,
+          "text": "جدا",
+          "confidence": 0.8,
+          "strikethrough": false,
+          "highlight": false,
+          "bold": false,
+          "color": "#f6e6b4"
+        }
+      ]
+    }
+  ]
+}
